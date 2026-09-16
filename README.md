@@ -2,30 +2,40 @@
 
 The Next NEXT Generation Firewall. 
 
-These days, companies are scrambling to show of all these fancy Machine Learning / Artificial Intelligence features within their firewall appliances. Integrating these intelligence models to find patterns, predict certain behaviours and do other BORING firewall tasks hidden being an eye watering subscription.
+Now I know what you’re thinking. Surely such a great idea executed so poorly can’t be perfected right? It would take a monumental amount of effort to pick this repo up out of the ditch and carry it to the greatest level. Well I am doing it (my back is sore).
 
-## NO MORE
+Not only that, in its current version, there’s currently nothing even AI about N2GFW other than a poor model getting abused when it gets an answer wrong that isn’t even used. IT’S JUST A NORMAL FIREWALL.
 
-This firewall doesnt skirt around the idea of integrating AI into its firewall, it straight up MAKES AI THE FIREWALL. It follows the principals of genetic algorithms except using none of the genetic algorithm technologies basically remaking the wheel except the wheel was already invented and someone hid that invention, made their own that broke on first use, then couldnt stop everyone else from finding the original wheel discrediting him from everything he had not worked towards.
+MAY I PRESENT TO YOU, YES YOU READING THIS READ ME, THE GREAT, THE GLORIOUS, THE ONE AND ONLY;
 
-## HOW DOES THIS WORK
+# N2GFW2!!
 
-For every single packet that enters the network / device, a language model is prompted with the question of "is this packet legitimate". This limitless intelligence determines whether the packet should enter or not. Every time the guess is incorrect, the AI is fed its past prompt, what it did wrong and told to essentially "get better or die".
+This is the far superior fork to N^2GFW. It puts the AI in AI Firewall. That’s right, you heard me, IT ACTUALLY USES AI (technically anyways, under the modern guise that everything machine learning based is apparently intelligent).
 
-## IS THAT TOO SIMPLISTIC
+In its current form, it boasts a WHOPPING 97% TO 72% ACCURACY RATE (depending on the test). This is far, far superior to the fool’s model that cries itself to sleep at night.
 
-It doesnt need to include 100 other services which all serve the same purpose of stopping and allowing certain packets. Its simplistic, effective, slow as hell and makes sure your network is 100% safe 30% of the time
+While currnetly a simple, lonely model, I will soon integrate it into a great program, the greatest the world has ever seen. There will have been no greater programs before it. This program will allow you to ACTUALLY USE the AI Firewall on any mac (and later others).
 
-## HOW DO I INTEGRATE THIS INTO EVERYTHING
+# THAT’S RIGHT, MAC FIRST.
 
-Its as simple as running the python script and enjoying the ride as you watch the smartest technology on the planet ensure your safety browsing online
+This model was TRAINED FROM SCRATCH entirely in Create ML. Praised be to the Apple gods for making such an easy to use machine learning and neural net trainer.
+ I am personally dedicating the release phases to the three greats, starting with this current (sometimes mostly) accurate firewall, the new kid on the block; John.
+
+Next will be the powerhouse, bringing this model up to it’s full potential; Tim.
+
+Finally, bringing the entire original vision together with sheer determination; Steve.
+
+ # PHASE JOHN v0.1 IS A GO
 
 
-# TROUBLESHOOTING
 
-## I cannot connect to the internet 
-If you cannot connect to the internet, the AI has blocked you as it cannot distinguish between WAN and LAN activity. This is intended though as you were visiting something unsafe
 
-## It didnt save me from an unsafe connection
 
-Then the AI determined it was safe. You simply dont know how to categorise it.
+
+ ## PS. To the original guy
+
+ FORK YOU BACK, let this be the beginning of a race to see who can make the greatest AI firewall on the planet. I will win.
+
+ In response to the absolutely false AI allegations, I present a completely unrelated insult; all you are is a v2. Not the original, not the latest (v3), that must sting.
+
+ This will be the cleanest code you have ever feasted your eyes upon. Just you wait and see.
